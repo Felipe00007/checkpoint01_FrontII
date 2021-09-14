@@ -1,0 +1,21 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\.."
+		},
+		{
+			"path": "..\\..\\..\\..\\Downloads\\00 Seletores de atributos"
+		},
+		{
+			"path": "..\\..\\..\\..\\Downloads\\01 Pseudoclasses"
+		}
+	],
+	"settings": {
+		"sqltools.connections": [],
+		"liveServer.settings.multiRootWorkspaceName": "CTD",
+		"java.project.sourcePaths": [
+			"Poo/test/PrimeiroProjeto/src",
+			"Poo/POO/aula 6 java ex/src/aula"
+		]
+	}
+}
